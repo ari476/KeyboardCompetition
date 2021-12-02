@@ -1,0 +1,9 @@
+C:\ארי\הימורים\הימורים\bin\Debug\הימורים.exe
+C:\ארי\הימורים\הימורים\bin\Debug\הימורים.pdb
+C:\ארי\הימורים\הימורים\obj\x86\Debug\הימורים.csprojResolveAssemblyReference.cache
+C:\ארי\הימורים\הימורים\obj\x86\Debug\הימורים.הימורים.resources
+C:\ארי\הימורים\הימורים\obj\x86\Debug\הימורים.Properties.Resources.resources
+C:\ארי\הימורים\הימורים\obj\x86\Debug\הימורים.csproj.GenerateResource.Cache
+C:\ארי\הימורים\הימורים\obj\x86\Debug\הימורים.exe
+C:\ארי\הימורים\הימורים\obj\x86\Debug\הימורים.pdb
+C:\ארי\הימורים\הימורים\obj\x86\Debug\הימורים.Form2.resources
