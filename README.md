@@ -1,8 +1,8 @@
 # KeyboardCompetition_CasinoMachine_bingo
 Keyboard competition between two players - who is faster?
 CasinoMachine for bets and bingo
-![image](https://user-images.githubusercontent.com/83061722/157692507-6c4f4976-f9bb-41d3-929b-703bfa375115.png)
+![image](https://user-images.githubusercontent.com/83061722/157692775-5ef60eed-0a9b-4148-b8ff-dcc940f17edb.png)
 
-![image](https://user-images.githubusercontent.com/83061722/157692537-6a89219e-7591-49ee-9357-5dd4f25ef275.png)
+![image](https://user-images.githubusercontent.com/83061722/157692807-3a5d8c46-71f1-4407-9275-dec1bc32f7eb.png)
 
-![image](https://user-images.githubusercontent.com/83061722/157692551-c788ded5-81a4-41d8-8cb2-592c01b7984c.png)
+![image](https://user-images.githubusercontent.com/83061722/157692831-701c6f8b-322f-477c-9aaa-0fa82bdf682f.png)
