@@ -1,5 +1,6 @@
 # KeyboardCompetition_CasinoMachine_bingo
 Keyboard competition between two players - who is faster?
+
 CasinoMachine for bets and bingo
 ![image](https://user-images.githubusercontent.com/83061722/157692775-5ef60eed-0a9b-4148-b8ff-dcc940f17edb.png)
 
